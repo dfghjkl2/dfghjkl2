@@ -1,0 +1,8 @@
+{
+  "token": "MTE0MTM5ODE1MTMwNDA2OTE2MQ.Ghg0lb.8U9vTMTgJGtOvsbXJ2VclxtSvmTUN9Iz2ostl0",
+  "mongourl": "mongodb+srv://root:<password>@cluster0.ipl0ajt.mongodb.net/?retryWrites=true&w=majority",
+  "prefix": "!",
+  "everyoneMention": false,
+  "hostedBy": true,
+  "message_remove_time": 30
+}
